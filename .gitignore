@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Wrangler generated files
+.wrangler/
+dist/
+
+# Environment files
+.env
+.env.local
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

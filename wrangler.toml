@@ -1,0 +1,7 @@
+# wrangler.toml
+name = "mta-sts-global"
+main = "src/index.js"
+compatibility_date = "2025-05-26"
+
+# No routes defined here because you'll add custom domains manually in the Cloudflare dashboard.
+# Custom domains added via UI persist across deployments.
