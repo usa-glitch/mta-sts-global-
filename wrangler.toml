@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "mta-sts-global"
+name = "mta-sts-global-eatg"
 main = "src/index.js"
 compatibility_date = "2025-05-26"
 
